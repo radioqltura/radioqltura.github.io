@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Radio Qltura</title>
+    <link>https://radioqltura.github.io/</link>
+    <language>pl</language>
+    <copyright>© Fundacja Q</copyright>
+    <itunes:author>Fundacja Q</itunes:author>
+    <itunes:summary>Niezależne audycje obywatelskie, tworzone przez Fundację Q.</itunes:summary>
+    <description>Niezależne audycje obywatelskie, tworzone przez Fundację Q.</description>
+    <itunes:owner>
+      <itunes:name>Fundacja Q</itunes:name>
+      <itunes:email>radio@fundacjaq.pl</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Przykładowy odcinek</title>
+      <description>To jest przykładowy odcinek podcastu Radio Qltura.</description>
+      <pubDate>Tue, 07 May 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://radioqltura.github.io/audio/odcinek1.mp3" length="12345678" type="audio/mpeg" />
+      <guid>odcinek1</guid>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
