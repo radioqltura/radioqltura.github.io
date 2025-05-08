@@ -2,34 +2,31 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Radio Qltura</title>
-    <link>https://radioqltura.github.io/</link>
+    <title>Podcastowe Radio QLtura w NGO</title>
+    <link>https://www.radioqltura.pl/</link>
     <language>pl</language>
     <copyright>© Fundacja Q</copyright>
     <itunes:author>Fundacja Q</itunes:author>
-    <itunes:summary>Niezależne audycje obywatelskie, tworzone przez Fundację Q.</itunes:summary>
-    <description>Niezależne audycje obywatelskie, tworzone przez Fundację Q.</description>
+    <itunes:summary>Podcast Fundacji Q dla ludzi kultury, organizacji pozarządowych i aktywistów. 
+Znajdziesz tu aktualności („Wieści ze świata NGO”), rozmowy z gośćmi i tematyczne serie specjalne.
+
+📌 Strona: www.radioqltura.pl  
+📘 Facebook: facebook.com/kulturawkwarantannie  
+▶️ YouTube: youtube.com/@radioqltura</itunes:summary>
+    <description>Podcast Fundacji Q dla ludzi kultury, organizacji pozarządowych i aktywistów. 
+Znajdziesz tu aktualności („Wieści ze świata NGO”), rozmowy z gośćmi i tematyczne serie specjalne.
+
+📌 Strona: www.radioqltura.pl  
+📘 Facebook: facebook.com/kulturawkwarantannie  
+▶️ YouTube: youtube.com/@radioqltura</description>
     <itunes:owner>
       <itunes:name>Fundacja Q</itunes:name>
       <itunes:email>radio@fundacjaq.pl</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Przykładowy odcinek</title>
-      <description>To jest przykładowy odcinek podcastu Radio Qltura.</description>
-      <pubDate>Tue, 07 May 2025 10:00:00 GMT</pubDate>
-      <enclosure url="https://radioqltura.github.io/audio/odcinek1.mp3" length="12345678" type="audio/mpeg" />
-      <guid>odcinek1</guid>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-  <item>
-  <title>Testowy odcinek 01</title>
-  <description>To jest testowy opis odcinka do automatycznego RSS-a.</description>
-  <pubDate>Thu, 08 May 2025 10:26:10 +02:00</pubDate>
-  <enclosure url="https://radioqltura.github.io/audio/test-odcinek.mp3" type="audio/mpeg" length="12345678" />
-  <guid>test-odcinek-01</guid>
-  <itunes:duration>213</itunes:duration>
-</item>
-</channel>
+    <itunes:image href="https://radioqltura.github.io/cover.jpg" />
+    <itunes:category text="Society & Culture"/>
+    <itunes:keywords>NGO, kultura, społeczeństwo, aktywizm, Ukraina, sztuka, radio, podcast, organizacje pozarządowe, solidarność, edukacja, pomoc humanitarna</itunes:keywords>
+  </channel>
 </rss>
