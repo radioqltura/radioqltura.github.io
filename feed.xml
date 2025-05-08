@@ -23,5 +23,13 @@
       <guid>odcinek1</guid>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
-  </channel>
+  <item>
+  <title>Testowy odcinek 01</title>
+  <description>To jest testowy opis odcinka do automatycznego RSS-a.</description>
+  <pubDate>Thu, 08 May 2025 10:26:10 +02:00</pubDate>
+  <enclosure url="https://radioqltura.github.io/audio/test-odcinek.mp3" type="audio/mpeg" length="12345678" />
+  <guid>test-odcinek-01</guid>
+  <itunes:duration>213</itunes:duration>
+</item>
+</channel>
 </rss>
