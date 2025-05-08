@@ -26,7 +26,7 @@ Znajdziesz tu aktualności („Wieści ze świata NGO”), rozmowy z gośćmi i 
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://radioqltura.github.io/cover.jpg" />
-    <itunes:category text="Society & Culture"/>
+    <itunes:category text="Society &amp; Culture"/>
     <itunes:keywords>NGO, kultura, społeczeństwo, aktywizm, Ukraina, sztuka, radio, podcast, organizacje pozarządowe, solidarność, edukacja, pomoc humanitarna</itunes:keywords>
   </channel>
 </rss>
